@@ -1,0 +1,13 @@
+/*
+Theme Name: My Custom Theme
+Author: Filip Kasan
+Description: A custom WordPress theme.
+Version: 1.0
+*/
+
+
+
+body {
+    background: #ff0000;
+    color: #fff;
+}
